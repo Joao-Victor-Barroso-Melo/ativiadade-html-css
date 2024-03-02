@@ -1,2 +1,2 @@
-# ativiadade-html-css
+# atividade-html-css
 Atividade - HTML/CSS
